@@ -286,8 +286,10 @@ about
 #Business{
     background-color: white;
 }
-
-#Business .title{
+#Business .container{
+    margin:0 auto;
+}
+Business .title{
     font-family: Helvetica95;
     font-weight: 900;
     font-style: normal;
