@@ -699,7 +699,7 @@
     }
     header.masthead {
         height: 900px;
-        background-size: 38% 83%;
+        background-size: 100%;
         background-position: right top;
         border-bottom-left-radius: 200px;
     }
@@ -753,6 +753,7 @@
         display:none;
     }
     #Business{
+        margin: 0 auto;
         padding-left:10%;
         padding-right:10%;
         border-top-right-radius: 200px;
@@ -821,7 +822,7 @@
         height:1000px;
         border-bottom-left-radius: 20%;
         border-bottom-right-radius: 20%;
-        background-size: 1920px;
+        background-size: 100%;
         background-position: center 60%;
     }
 
