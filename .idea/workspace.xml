@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2abdfa38-bfaf-4287-9549-d6fb0909ba2b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index1.php" afterPath="$PROJECT_DIR$/index1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +21,7 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="-471">
               <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding />
             </state>
@@ -31,8 +31,8 @@
       <file leaf-file-name="bootstrap-responsive.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="700" column="22" lean-forward="false" selection-start-line="700" selection-start-column="22" selection-end-line="700" selection-end-column="22" />
+            <state relative-caret-position="284">
+              <caret line="768" column="19" lean-forward="false" selection-start-line="768" selection-start-column="19" selection-end-line="768" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -61,8 +61,8 @@
       <file leaf-file-name="index1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="69" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="131" column="26" lean-forward="true" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -111,10 +111,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index1.php" />
         <option value="$PROJECT_DIR$/index_0713.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index1.php" />
         <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css" />
       </list>
     </option>
@@ -280,12 +280,12 @@
       <workItem from="1531286738399" duration="11048000" />
       <workItem from="1531363959242" duration="13569000" />
       <workItem from="1531388465355" duration="5683000" />
-      <workItem from="1531447670222" duration="1568000" />
+      <workItem from="1531447670222" duration="1749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50634000" />
+    <option name="totallyTimeSpent" value="50815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1100" extended-state="6" />
@@ -505,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="69" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="131" column="26" lean-forward="true" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -529,7 +529,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="-471">
           <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
@@ -537,8 +537,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="700" column="22" lean-forward="false" selection-start-line="700" selection-start-column="22" selection-end-line="700" selection-end-column="22" />
+        <state relative-caret-position="284">
+          <caret line="768" column="19" lean-forward="false" selection-start-line="768" selection-start-column="19" selection-end-line="768" selection-end-column="19" />
           <folding />
         </state>
       </provider>

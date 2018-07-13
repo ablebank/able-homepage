@@ -129,7 +129,7 @@
 
 <!-- About -->
 <section id="Business">
-    <div class="container">
+    <div class="container e-container">
         <h3 class="title">BUSINESS</h3>
         <p class="p1">K-BlockChain은 블록체인 기술을 바탕으로 한 암호화폐 개발에서부터 인재 양성, 블록체인 스타트업 엑셀러이팅까지 블록체인 산업 전반에 걸친 성장을 위해 노력합니다.</p>
 

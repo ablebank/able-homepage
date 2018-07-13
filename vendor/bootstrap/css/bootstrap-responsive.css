@@ -698,7 +698,7 @@
         color: #22a1d5;
     }
     .container {
-        max-width:100%;
+        max-width:1920px;
     }
     header.masthead .mainContent{
         padding-top:326px;
@@ -764,6 +764,9 @@
         padding-right:10%;
         border-top-right-radius: 200px;
         border-bottom-right-radius: 200px;
+    }
+    #Business .e-container{
+        width:100%;
     }
     #Business .title{
         width:55%;
