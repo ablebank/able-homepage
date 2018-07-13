@@ -18,21 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="290" selection-end-column="1" />
+            <state relative-caret-position="279">
+              <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap-responsive.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bootstrap-responsive.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="761" column="13" lean-forward="false" selection-start-line="761" selection-start-column="5" selection-end-line="761" selection-end-column="13" />
+            <state relative-caret-position="419">
+              <caret line="700" column="22" lean-forward="false" selection-start-line="700" selection-start-column="22" selection-end-line="700" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -102,6 +102,7 @@
       <find>background-size</find>
       <find>background-siz</find>
       <find>Business</find>
+      <find>1920px</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,8 +114,8 @@
         <option value="$PROJECT_DIR$/index1.php" />
         <option value="$PROJECT_DIR$/index_0713.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css" />
       </list>
     </option>
   </component>
@@ -279,12 +280,12 @@
       <workItem from="1531286738399" duration="11048000" />
       <workItem from="1531363959242" duration="13569000" />
       <workItem from="1531388465355" duration="5683000" />
-      <workItem from="1531447670222" duration="1437000" />
+      <workItem from="1531447670222" duration="1568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50503000" />
+    <option name="totallyTimeSpent" value="50634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1100" extended-state="6" />
@@ -526,18 +527,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="761" column="13" lean-forward="false" selection-start-line="761" selection-start-column="5" selection-end-line="761" selection-end-column="13" />
+        <state relative-caret-position="279">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="290" selection-end-column="1" />
+        <state relative-caret-position="419">
+          <caret line="700" column="22" lean-forward="false" selection-start-line="700" selection-start-column="22" selection-end-line="700" selection-end-column="22" />
           <folding />
         </state>
       </provider>
